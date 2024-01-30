@@ -1,3 +1,3 @@
 # FOKUS
 
-Projeto clone do pomodoro.io
+Projeto timer pomodoro
